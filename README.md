@@ -6,9 +6,9 @@ An interactive luxury fragrance landing page concept designed in Figma.
 
 Ajmal My Stellar is a premium perfume landing page that combines elegant visual design, product storytelling, and interactive animations to create an immersive user experience.
 
-## Prototype Demo
+## Cover Page
 
-[![Watch Prototype](Assets/Screen1.jpeg)](Assets/Ajmal-FigmaPrototype.mp4)
+[![Cover Image](Assets/Screen1.jpeg)]
 
 ## Features
 
@@ -34,6 +34,8 @@ Ajmal My Stellar is a premium perfume landing page that combines elegant visual 
 * Prototyping
 
 ### Interactive Prototype
+
+[![Watch Prototype](assets/Ajmal-FigmaPrototype.mp4)
 
 Figma Prototype:
 [[FIGMA PROTOTYPE LINK](https://www.figma.com/proto/DYhK2TfOYYLNYONaBwIxFa/Ajmal?node-id=4-6&t=pocYl4ptRF96cCca-1)]
