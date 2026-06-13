@@ -35,8 +35,6 @@ Ajmal My Stellar is a premium perfume landing page that combines elegant visual 
 
 ### Interactive Prototype
 
-[![Watch Prototype](assets/Ajmal-FigmaPrototype.mp4)
-
 Figma Prototype:
 [[FIGMA PROTOTYPE LINK](https://www.figma.com/proto/DYhK2TfOYYLNYONaBwIxFa/Ajmal?node-id=4-6&t=pocYl4ptRF96cCca-1)]
 
